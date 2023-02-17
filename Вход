@@ -1,0 +1,389 @@
+Container(
+    width: 456,
+    height: 977,
+    color: Color(0xfffaf9f7),
+    padding: const EdgeInsets.only(bottom: 19, ),
+    child: Column(
+        mainAxisSize: MainAxisSize.min,
+        mainAxisAlignment: MainAxisAlignment.start,
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children:[
+            Container(
+                width: 456,
+                height: 54,
+                child: Stack(
+                    children:[Positioned(
+                        left: 22.97,
+                        top: 11.38,
+                        child: SizedBox(
+                            width: 38.91,
+                            height: 31.62,
+                            child: Text(
+                                "9:41",
+                                style: TextStyle(
+                                    color: Colors.black,
+                                    fontSize: 20.67,
+                                    fontFamily: "Poppins",
+                                    fontWeight: FontWeight.w500,
+                                ),
+                            ),
+                        ),
+                    ),
+                    Container(
+                        width: 456,
+                        height: 54,
+                        child: Stack(
+                            children:[
+                                Positioned.fill(
+                                    child: Align(
+                                        alignment: Alignment.topLeft,
+                                        child: Container(
+                                            width: 456,
+                                            height: 53.50,
+                                            padding: const EdgeInsets.only(right: 334, top: 11, bottom: 9, ),
+                                            child: Row(
+                                                mainAxisSize: MainAxisSize.min,
+                                                mainAxisAlignment: MainAxisAlignment.start,
+                                                crossAxisAlignment: CrossAxisAlignment.center,
+                                                children:[
+                                                    Container(
+                                                        width: 121.60,
+                                                        height: 34.05,
+                                                        child: Stack(
+                                                            children:[
+                                                                Container(
+                                                                    width: 121.60,
+                                                                    height: 34.05,
+                                                                ),
+                                                            ],
+                                                        ),
+                                                    ),
+                                                ],
+                                            ),
+                                        ),
+                                    ),
+                                ),
+                                Positioned.fill(
+                                    child: Align(
+                                        alignment: Alignment.centerRight,
+                                        child: Container(
+                                            width: 121.60,
+                                            height: 34.05,
+                                            child: Row(
+                                                mainAxisSize: MainAxisSize.min,
+                                                mainAxisAlignment: MainAxisAlignment.center,
+                                                crossAxisAlignment: CrossAxisAlignment.center,
+                                                children:[
+                                                    Container(
+                                                        width: 121.60,
+                                                        height: 34.05,
+                                                        padding: const EdgeInsets.only(left: 23, right: 17, ),
+                                                        child: Row(
+                                                            mainAxisSize: MainAxisSize.min,
+                                                            mainAxisAlignment: MainAxisAlignment.end,
+                                                            crossAxisAlignment: CrossAxisAlignment.center,
+                                                            children:[
+                                                                Container(
+                                                                    width: 20.67,
+                                                                    height: 12.97,
+                                                                    decoration: BoxDecoration(
+                                                                        borderRadius: BorderRadius.circular(8),
+                                                                        color: Colors.black,
+                                                                    ),
+                                                                ),
+                                                                SizedBox(width: 6.12),
+                                                                Container(
+                                                                    width: 18.57,
+                                                                    height: 13.33,
+                                                                    decoration: BoxDecoration(
+                                                                        borderRadius: BorderRadius.circular(8),
+                                                                        color: Colors.black,
+                                                                    ),
+                                                                ),
+                                                                SizedBox(width: 6.12),
+                                                                Container(
+                                                                    width: 30.40,
+                                                                    height: 14.59,
+                                                                    child: Row(
+                                                                        mainAxisSize: MainAxisSize.min,
+                                                                        mainAxisAlignment: MainAxisAlignment.center,
+                                                                        crossAxisAlignment: CrossAxisAlignment.center,
+                                                                        children:[
+                                                                            Container(
+                                                                                width: 30.40,
+                                                                                height: 14.59,
+                                                                                padding: const EdgeInsets.only(right: 1, ),
+                                                                                child: Row(
+                                                                                    mainAxisSize: MainAxisSize.min,
+                                                                                    mainAxisAlignment: MainAxisAlignment.center,
+                                                                                    crossAxisAlignment: CrossAxisAlignment.center,
+                                                                                    children:[
+                                                                                        Container(
+                                                                                            width: 29.59,
+                                                                                            height: 13.78,
+                                                                                            child: Stack(
+                                                                                                children:[Container(
+                                                                                                    width: 26.75,
+                                                                                                    height: 13.78,
+                                                                                                    child: Row(
+                                                                                                        mainAxisSize: MainAxisSize.min,
+                                                                                                        mainAxisAlignment: MainAxisAlignment.center,
+                                                                                                        crossAxisAlignment: CrossAxisAlignment.center,
+                                                                                                        children:[
+                                                                                                            Container(
+                                                                                                                width: 26.75,
+                                                                                                                height: 13.78,
+                                                                                                                decoration: BoxDecoration(
+                                                                                                                    borderRadius: BorderRadius.circular(3.25),
+                                                                                                                    border: Border.all(color: Colors.black, width: 1.22, ),
+                                                                                                                ),
+                                                                                                                padding: const EdgeInsets.all(2),
+                                                                                                                child: Row(
+                                                                                                                    mainAxisSize: MainAxisSize.min,
+                                                                                                                    mainAxisAlignment: MainAxisAlignment.center,
+                                                                                                                    crossAxisAlignment: CrossAxisAlignment.center,
+                                                                                                                    children:[
+                                                                                                                        Container(
+                                                                                                                            width: 21.89,
+                                                                                                                            height: 8.91,
+                                                                                                                            decoration: BoxDecoration(
+                                                                                                                                borderRadius: BorderRadius.circular(1.62),
+                                                                                                                                color: Colors.black,
+                                                                                                                            ),
+                                                                                                                        ),
+                                                                                                                    ],
+                                                                                                                ),
+                                                                                                            ),
+                                                                                                        ],
+                                                                                                    ),
+                                                                                                ),],
+                                                                                            ),
+                                                                                        ),
+                                                                                    ],
+                                                                                ),
+                                                                            ),
+                                                                        ],
+                                                                    ),
+                                                                ),
+                                                            ],
+                                                        ),
+                                                    ),
+                                                ],
+                                            ),
+                                        ),
+                                    ),
+                                ),
+                            ],
+                        ),
+                    ),],
+                ),
+            ),
+            SizedBox(height: 6.28),
+            SizedBox(
+                width: 323,
+                height: 48,
+                child: Text(
+                    "Войти в аккаунт",
+                    style: TextStyle(
+                        color: Color(0xff151515),
+                        fontSize: 38,
+                        fontFamily: "Raleway",
+                        fontWeight: FontWeight.w800,
+                    ),
+                ),
+            ),
+            SizedBox(height: 6.28),
+            Container(
+                width: 394,
+                height: 55,
+                child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children:[
+                        Container(
+                            width: 394,
+                            height: 55,
+                            decoration: BoxDecoration(
+                                borderRadius: BorderRadius.circular(15),
+                                color: Color(0x19232327),
+                            ),
+                            padding: const EdgeInsets.only(left: 59, right: 275, ),
+                            child: Row(
+                                mainAxisSize: MainAxisSize.min,
+                                mainAxisAlignment: MainAxisAlignment.start,
+                                crossAxisAlignment: CrossAxisAlignment.center,
+                                children:[
+                                    Text(
+                                        "Логин",
+                                        textAlign: TextAlign.center,
+                                        style: TextStyle(
+                                            color: Color(0xcc676767),
+                                            fontSize: 20,
+                                            fontFamily: "Raleway",
+                                            fontWeight: FontWeight.w600,
+                                        ),
+                                    ),
+                                ],
+                            ),
+                        ),
+                    ],
+                ),
+            ),
+            SizedBox(height: 6.28),
+            Container(
+                width: 28,
+                height: 28,
+                decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(8),
+                ),
+                child: FlutterLogo(size: 28),
+            ),
+            SizedBox(height: 6.28),
+            Container(
+                width: 394,
+                height: 55,
+                child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    children:[
+                        Container(
+                            width: 394,
+                            height: 55,
+                            decoration: BoxDecoration(
+                                borderRadius: BorderRadius.circular(15),
+                                color: Color(0x19232327),
+                            ),
+                            padding: const EdgeInsets.only(left: 21, right: 17, top: 14, bottom: 13, ),
+                            child: Row(
+                                mainAxisSize: MainAxisSize.min,
+                                mainAxisAlignment: MainAxisAlignment.start,
+                                crossAxisAlignment: CrossAxisAlignment.center,
+                                children:[
+                                    Container(
+                                        width: 21.99,
+                                        height: 21.76,
+                                        decoration: BoxDecoration(
+                                            borderRadius: BorderRadius.circular(8),
+                                        ),
+                                        child: FlutterLogo(size: 21.75506019592285),
+                                    ),
+                                    SizedBox(width: 117.02),
+                                    Text(
+                                        "Пароль",
+                                        textAlign: TextAlign.center,
+                                        style: TextStyle(
+                                            color: Color(0xcc676767),
+                                            fontSize: 20,
+                                            fontFamily: "Raleway",
+                                            fontWeight: FontWeight.w600,
+                                        ),
+                                    ),
+                                    SizedBox(width: 117.02),
+                                    Container(
+                                        width: 27,
+                                        height: 27,
+                                        decoration: BoxDecoration(
+                                            borderRadius: BorderRadius.circular(8),
+                                        ),
+                                        child: FlutterLogo(size: 27),
+                                    ),
+                                ],
+                            ),
+                        ),
+                    ],
+                ),
+            ),
+            SizedBox(height: 6.28),
+            Text(
+                "Забыли пароль?",
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                    color: Color(0xff0038ff),
+                    fontSize: 16,
+                ),
+            ),
+            SizedBox(height: 6.28),
+            Text(
+                "Зарегестрироваться",
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                    color: Color(0xff0038ff),
+                    fontSize: 16,
+                ),
+            ),
+            SizedBox(height: 6.28),
+            Container(
+                width: 73,
+                height: 73,
+                child: Stack(
+                    children:[Container(
+                        width: 73,
+                        height: 73,
+                        decoration: BoxDecoration(
+                            shape: BoxShape.circle,
+                            boxShadow: [
+                                BoxShadow(
+                                    color: Color(0x7f0038ff),
+                                    blurRadius: 26,
+                                    offset: Offset(0, 10),
+                                ),
+                            ],
+                            color: Color(0xff279e9a),
+                        ),
+                    ),
+                    Positioned(
+                        left: 25.53,
+                        top: 21.14,
+                        child: Container(
+                            width: 20.03,
+                            height: 19.82,
+                            decoration: BoxDecoration(
+                                borderRadius: BorderRadius.circular(8),
+                            ),
+                            child: FlutterLogo(size: 19.81610679626465),
+                        ),
+                    ),],
+                ),
+            ),
+            SizedBox(height: 6.28),
+            Text(
+                "Вход",
+                style: TextStyle(
+                    color: Color(0xff232327),
+                    fontSize: 31,
+                    fontFamily: "Raleway",
+                    fontWeight: FontWeight.w700,
+                ),
+            ),
+            SizedBox(height: 6.28),
+            Transform.rotate(
+                angle: -3.14,
+                child: Container(
+                    width: 9.99,
+                    height: 9.89,
+                    decoration: BoxDecoration(
+                        borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: FlutterLogo(size: 9.888693809509277),
+                ),
+            ),
+            SizedBox(height: 6.28),
+            Container(
+                width: 251,
+                height: 448,
+                child: FlutterLogo(size: 251),
+            ),
+            SizedBox(height: 6.28),
+            Text(
+                "Вернуться",
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                    color: Color(0xff676767),
+                    fontSize: 18,
+                ),
+            ),
+        ],
+    ),
+)
